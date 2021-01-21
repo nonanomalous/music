@@ -1,0 +1,3 @@
+dj startapp api with drf
+dj startapp frontend with static, src
+npm init -y in frontend
